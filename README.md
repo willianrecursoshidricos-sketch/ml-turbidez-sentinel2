@@ -6,7 +6,7 @@ com foco em interpretação ambiental e validação estatística dos modelos.
 
 ---
 
-## 🎯 Objetivo
+##  Objetivo
 
 Desenvolver modelos preditivos de turbidez utilizando dados espectrais do Sentinel-2,
 avaliando o desempenho de:
@@ -16,7 +16,7 @@ avaliando o desempenho de:
 
 ---
 
-## 🗂️ Base de Dados
+##  Base de Dados
 
 - Dados in situ de qualidade da água (2018–2023):
   - Turbidez
@@ -31,7 +31,7 @@ avaliando o desempenho de:
 
 ---
 
-## 🔎 Metodologia
+##  Metodologia
 
 1. Análise exploratória dos dados (EDA)
 2. Estatísticas descritivas da turbidez
@@ -48,7 +48,7 @@ avaliando o desempenho de:
 
 ---
 
-## 📊 Análise Exploratória da Turbidez
+##  Análise Exploratória da Turbidez
 
 A distribuição da turbidez apresenta assimetria positiva, com predominância de valores
 baixos e ocorrência de eventos extremos.
@@ -61,7 +61,7 @@ baixos e ocorrência de eventos extremos.
 
 ---
 
-## 📈 Relação entre Turbidez e Bandas Espectrais
+## Relação entre Turbidez e Bandas Espectrais
 
 A análise de dispersão e correlação de Pearson evidencia correlação moderada entre
 a turbidez e bandas do visível e red-edge, justificando a aplicação de modelos
@@ -71,7 +71,7 @@ multivariados de Machine Learning.
 
 ---
 
-## 🤖 Modelagem Preditiva
+## Modelagem Preditiva
 
 Foram avaliados diferentes cenários de modelagem, considerando:
 - Bandas individuais
@@ -85,7 +85,7 @@ O modelo **Random Forest** apresentou o melhor desempenho global.
 
 ---
 
-## 🗺️ Mapas Espaciais de Turbidez
+## Mapas Espaciais de Turbidez
 
 O melhor modelo foi aplicado espacialmente para gerar mapas de turbidez estimada,
 permitindo a análise da variabilidade espacial e temporal do parâmetro.
@@ -94,7 +94,7 @@ permitindo a análise da variabilidade espacial e temporal do parâmetro.
 
 ---
 
-## 🧪 Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 - Python
 - Pandas, NumPy
@@ -104,11 +104,7 @@ permitindo a análise da variabilidade espacial e temporal do parâmetro.
 
 ---
 
-## 👤 Autor
 
-**Willian Geraldo da Silva**  
-Engenheiro Ambiental e Sanitarista  
-Ciência de Dados e Machine Learning aplicados a Recursos Hídricos
 
 ## Autor
 **Willian Geraldo da Silva**  
