@@ -81,7 +81,7 @@ Foram avaliados diferentes cenários de modelagem, considerando:
 
 O modelo **Random Forest** apresentou o melhor desempenho global.
 
-![Avaliação dos modelos](figures/modelos_ml_avaliacao.png)
+![Avaliação dos modelos](figures/modelos_previsto_vs_observado.png)
 
 ---
 
