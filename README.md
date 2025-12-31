@@ -81,7 +81,7 @@ Foram avaliados diferentes cenários de modelagem, considerando:
 
 O modelo **Random Forest** apresentou o melhor desempenho global.
 
-![Avaliação dos modelos](figures/modelos_ml_resultados.png)
+![Avaliação dos modelos](modelos_previsto_vs_observado.png)
 
 ---
 
@@ -90,7 +90,7 @@ O modelo **Random Forest** apresentou o melhor desempenho global.
 O melhor modelo foi aplicado espacialmente para gerar mapas de turbidez estimada,
 permitindo a análise da variabilidade espacial e temporal do parâmetro.
 
-![Mapas de turbidez](figures/mapas_turbidez.png)
+![Mapas de turbidez](mapas_turbidez.png)
 
 ---
 
